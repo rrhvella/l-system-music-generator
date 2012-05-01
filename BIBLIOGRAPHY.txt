@@ -1,0 +1,31 @@
+I wrote this software as part of a University assignment. What follows is the bibliography of the research I did prior to developing the software and writing the companion essay. Some sources are cited in the code.
+
+Hanan, J. S. (1992). Parametric L-Systems and their application to the modelling and visualization of plants. Regina, Saskatchewan, Canada: University of Regina.
+
+Jonas, O. (1982). Introduction to the Theory of Heinrich Schenker. London: Longman.
+
+Leach, J., & Fitch, J. (1995). Nature, Music, and Algorithmic Composition. Computer Music Journal, 23-33.
+
+Lindemayer, A. (1968). Mathematical Models for Cellular Interactions in Development. Journal of Theoretical Biology, 18, 300-315.
+
+Lourenço, B. F., Ralha, J. C., & Brandão, M. C. (2009). L-systems, scores, and evolutinary techniques. Sound and Music Computing Conference (pp. 23-25). Porto, Portugal: SMC Network.
+
+Mason, S., & Saffle, M. (1994). L-Systems, Melodies and Musical Structure. Leonardo Music Journal, 31-38.
+
+McCormack, J. (1996). Grammar Based Music Composition. Complex Systems, pp. 321-336.
+
+MIDI Manufacturers Association. (2004). MIDI Tuning Messages, Examples of frequency data. Retrieved December 21, 2011, from MIDI Manufacturers Association official website: http://www.midi.org/techspecs/midituning.php
+
+Morgan, N. (2007). Transformation and mapping of L-Systems data in the composition of a large-scale instrumental work. Music-AL Workship (p. Online at http://cmr.soc.plymouth.ac.uk/Musical2007/papers/Morgan.pdf). Lisbon, Portugal: Interdisciplinary Centre for Computer Music Research (ICCMR). Retrieved from http://cmr.soc.plymouth.ac.uk/Musical2007/papers/Morgan.pdf
+
+Nelson, G. L. (1992). Real Time Transformation of Musical Material with Fractal Algorithms. Computers & Mathematics with Applications, 109-116.
+
+Prusinkiewicz, P. (1986a). Graphical applications of L-systems. Graphics Interface / Vision Interface (pp. 247-253). Toronto, Ontario, Canada: Canadian Information Processing Society.
+
+Prusinkiewicz, P. (1986b). Score generation with L-systems. International Computer Music Conference (p. 455-457). Den Haag, Netherlands: International Computer Music Association.
+
+Worrall, D. (2002, June 23). PROCEDURAL COMPOSITION TUTORIAL, L-Systems: Introduction. Retrieved December 16, 2011, from David Worrall: http://www.avatar.com.au/courses/Lsystems/Intro.html
+
+Worth, P., & Stepney, S. (2005a). Growing Music: musical interpretations of L-Systems. Lecture Notes in Computer Science, EvoMUSART workshop, EuroGP 2005 (pp. 545-550). Lausanne, Switzerland: Springer.
+
+Worth, P., & Stepney, S. (2005b). Growing Music (Accompanying Material). Retrieved December 20, 2011, from University of York, Department of Computer Science users: http://www-users.cs.york.ac.uk/~susan/bib/ss/nonstd/eurogp05/index.html
