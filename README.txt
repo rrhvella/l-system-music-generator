@@ -1,14 +1,10 @@
-Prior to running the system, please make sure that you have Java 1.6 or higher installed. A copy can be downloaded from the following link:
-
-http://java.com/en/
-
-In order to run the system, please open the command line and navigate into the folder 'bin'. From here, please enter the following text into the command line, and press enter:
+After checking out and compiling the java code, navigate to the folder containing the compiled files and run the following command in the command line.
 
 java Main C MAJOR A Test
 
 After a few seconds, you should hear a one-to-four-bar phrase in C major, followed by a sustained chord in the same key. The first part itself can be a simple sustained chord, but it can also be a complex melody. 
 
-Once the program is finished playing, a new MIDI file, called 'Test.mid', will also be added to the bin folder. If you play this MIDI file, or analyse it in notation software (such as Sibelius) you will notice that it is the same exact passage which was played when the program was run.
+Once the program is finished playing, a new MIDI file, called 'Test.mid', will also be added to the bin folder. If you play this MIDI file, or analyse it in a notation software (such as Sibelius) you will notice that it is the same exact passage which was played when the program was run.
 
 The name of the generated file can be controlled by modifying the last argument. For example, the following command will store the program output in a file called 'AnotherTest.mid':
 

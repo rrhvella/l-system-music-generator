@@ -4,9 +4,9 @@ import javax.sound.midi.MidiSystem;
 import javax.sound.midi.Sequence;
 import javax.sound.midi.Sequencer;
 
-import rrhvella.coursework1.Note;
-import rrhvella.coursework1.Scale;
-import rrhvella.coursework1.StructuredPolyphonicLSystemNotator;
+import rrhvella.composition.Note;
+import rrhvella.composition.Scale;
+import rrhvella.composition.StructuredPolyphonicLSystemNotator;
 
 /**
  * Contains the main method.
